@@ -5,14 +5,13 @@ Bem-vindo(a) ao perfil do Murilo 😁
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiloKhaji&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<div>
+   <p align="left">
+      <a href="https://skillicons.dev">
+         <img src="https://skillicons.dev/icons?i=html,css,php,python,javascript" />
+       </a>
+   </p>
 </div>
- 
 <br>
  
 Par falar comigo entre em contato com minhas redes sociais!
