@@ -14,7 +14,7 @@ Bem-vindo(a) ao perfil do Murilo 😁
 </div>
 <br>
  
-Par falar comigo entre em contato com minhas redes sociais!
+Para falar comigo entre em contato com minhas redes sociais!
 <div> 
   <a href="https://discordapp.com/users/940600554181234758/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:murilosilva1593@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
